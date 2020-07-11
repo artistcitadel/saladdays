@@ -1,12 +1,12 @@
 {
-  "name": "Material-UI",
-  "short_name": "MUI",
+  "name": "Oh's HomePage",
+  "short_name": "Oh",
   "display": "minimal-ui",
   "start_url": "/",
   "theme_color": "#2196f3",
   "background_color": "#ffffff",
   "icons": [
-    {
+    /*{
       "src": "/static/icons/48x48.png",
       "sizes": "48x48"
     },
@@ -29,6 +29,6 @@
     {
       "src": "/static/icons/512x512.png",
       "sizes": "512x512"
-    }
+    }*/
   ]
 }
