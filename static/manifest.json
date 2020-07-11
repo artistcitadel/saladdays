@@ -1,6 +1,6 @@
 {
-  "name": "Material-UI",
-  "short_name": "MUI",
+  "name": "Oh's HomePage",
+  "short_name": "Oh",
   "display": "minimal-ui",
   "start_url": "/",
   "theme_color": "#2196f3",
