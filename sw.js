@@ -1,5 +1,5 @@
 
-// uuid: Sun Jul 12 2020 19:21:31 GMT+0900 (GMT+09:00)
+// uuid: Sun Jul 12 2020 22:05:42 GMT+0900 (GMT+09:00)
 /* eslint-env serviceworker */
 /* eslint-disable no-restricted-globals */
 /* global workbox */
