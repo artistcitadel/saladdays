@@ -336,7 +336,7 @@ a {
   -ms-grid-row-align: end;
   align-self: end;
   /* background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc2e3d7ffd30f3a3abb49f3_LogoReactPoland.png"); */
-  background-image: url("/static/images/5cc2e3d7ffd30f3a3abb49f3_LogoReactPoland.png");
+  background-image: url("/static/images/logohomeicon.png");
   background-position: 0% 0%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -349,7 +349,8 @@ a {
   -ms-flex-item-align: auto;
   -ms-grid-row-align: auto;
   align-self: auto;
-  background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc47635d9da3341367ee8ee_logo-dark.png");
+  /* background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc47635d9da3341367ee8ee_logo-dark.png"); */
+  background-image: url("/static/images/logo-nav.png");
   background-size: auto 56px;
 }
 
@@ -2063,7 +2064,7 @@ a {
   width: 144px;
   height: 72px;
   /* background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc47635d9da3341367ee8ee_logo-dark.png"); */
-  background-image: url("/static/images/reactkorea1.png");
+  background-image: url("/static/images/logo-nav.png");
   background-position: 50% 50%;
   background-size: 120px;
   background-repeat: no-repeat;
