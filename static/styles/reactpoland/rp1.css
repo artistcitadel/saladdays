@@ -1939,7 +1939,8 @@ a {
   width: 100%;
   height: 100%;
   min-height: 300px;
-  background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cd052c027d19869fa9194d6_team5.jpg");
+  /* background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cd052c027d19869fa9194d6_team5.jpg"); */
+  background-image: url("/static/media/images/logos/bio1.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1948,7 +1949,8 @@ a {
 .photo._4 {
   width: 100%;
   height: 100%;
-  background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc81f27a2534f38211b9aaf_Pasted_image_at_2019-04-29__5_41_PM.png");
+  /* background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc81f27a2534f38211b9aaf_Pasted_image_at_2019-04-29__5_41_PM.png"); */
+  background-image: url("/static/media/images/logos/abio.png"); 
   background-position: 20% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1957,7 +1959,7 @@ a {
 .photo._5 {
   width: 100%;
   height: 100%;
-  background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cd052c47473d111eca4dc2f_team4.jpg");
+  /* background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cd052c47473d111eca4dc2f_team4.jpg"); */
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1990,7 +1992,8 @@ a {
 .case-study-thumbnail._1 {
   margin-bottom: 40px;
   background-color: #ffc65c;
-  background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc2e264e18ab81309275c6f_webmobilemockup.png");
+  /* background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc2e264e18ab81309275c6f_webmobilemockup.png"); */
+  background-image: url("/static/images/sudy/dashboard2.JPG");
   background-position: 60px 50%;
   background-size: auto 80%;
   background-repeat: no-repeat;
@@ -1999,7 +2002,8 @@ a {
 .case-study-thumbnail._2 {
   margin-bottom: 40px;
   background-color: #f1f6ff;
-  background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc2e264e18ab86ed7275c6d_webmobilemockup2.png");
+  /* background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc2e264e18ab86ed7275c6d_webmobilemockup2.png"); */
+  background-image: url("/static/images/sudy/dashboard1.JPG");
   background-position: 60px 50%;
   background-size: auto 80%;
   background-repeat: no-repeat;
@@ -2008,10 +2012,11 @@ a {
 .case-study-thumbnail._3 {
   margin-bottom: 40px;
   background-color: #466790;
-  background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc2e264e18ab8f291275c6e_webmobilemockup3.png");
+  /* background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc2e264e18ab8f291275c6e_webmobilemockup3.png"); */
+  background-image: url("/static/images/sudy/dashboard.JPG");
   background-position: 60px 50%;
   background-size: auto 80%;
-  background-repeat: no-repeat;
+    background-repeat: no-repeat;
 }
 
 .process-steps {
