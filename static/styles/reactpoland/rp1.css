@@ -2019,6 +2019,35 @@ a {
     background-repeat: no-repeat;
 }
 
+.case-study-thumbnail._4 {
+  margin-bottom: 40px;
+  background-color: #ffc65c;
+  /* background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc2e264e18ab8f291275c6e_webmobilemockup3.png"); */
+  background-image: url("/static/media/images/logos/culture.JPG");
+  background-position: 60px 50%;
+  background-size: auto 80%;
+    background-repeat: no-repeat;
+}
+.case-study-thumbnail._5 {
+  margin-bottom: 40px;
+  background-color: #e3e6eb;
+  /* background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc2e264e18ab8f291275c6e_webmobilemockup3.png"); */
+  background-image: url("/static/media/images/logos/kasra.jpg");
+  background-position: 60px 50%;
+  background-size: auto 80%;
+    background-repeat: no-repeat;
+}
+
+.case-study-thumbnail._6 {
+  margin-bottom: 40px;
+  background-color: #908f46;
+  /* background-image: url("https://assets.website-files.com/5cc2e264e18ab81050275c14/5cc2e264e18ab8f291275c6e_webmobilemockup3.png"); */
+  background-image: url("/static/media/images/logos/ali.JPG");
+  background-position: 60px 50%;
+  background-size: auto 80%;
+    background-repeat: no-repeat;
+}
+
 .process-steps {
   margin-top: 80px;
 }
