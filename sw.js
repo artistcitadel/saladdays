@@ -1,5 +1,5 @@
 
-// uuid: Tue Dec 01 2020 12:16:55 GMT+0900 (대한민국 표준시)
+// uuid: Mon Feb 22 2021 12:08:15 GMT+0900 (대한민국 표준시)
 /* eslint-env serviceworker */
 /* eslint-disable no-restricted-globals */
 /* global workbox */

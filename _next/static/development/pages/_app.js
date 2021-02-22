@@ -45771,7 +45771,7 @@ function loadDependencies() {
 
 if (true) {
   // eslint-disable-next-line no-console
-  console.log("%c\n\nREACT KOREA\n\n", 'font-family:monospace;color:#1976d2;font-size:12px;');
+  console.log("%c\n\n\uD83C\uDF0A\uD83C\uDF0A\uD83C\uDF0A \n\n", 'font-family:monospace;color:#1976d2;font-size:12px;');
 }
 
 function findActivePage(currentPages, router) {
