@@ -1,4 +1,4 @@
-# 🚀 Absolutely Awesome my homepage
+# 🚀 Absolutely awesome my homepage
 
 ### Using reactjs build my portfolio
 ### Hosted on Netlify
